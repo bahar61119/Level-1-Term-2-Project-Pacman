@@ -1,22 +1,20 @@
-                                                                 ==============================================
-                                                                         PROJECT NAME: PACMAN GAME
-                                                                         DEVELOPED BY: 
-										NAME: MD HABIBULLAH BIN ISMAIL
-										STUDENT ID: 0905049
-										LEVEL:1
-										TERM :1
-										DEPARTMENT OF CSE,BUET.
-									 WELL GUIDED BY:
-										SUMAIYA NAZEEN
-										LECTURER,
-										DEPARTMENT OF CSE,BUET. 
-                                                                 ==============================================
+==============================================
+#PROJECT NAME: PACMAN GAME
+*DEVELOPED BY: 
+*	NAME: MD HABIBULLAH BIN ISMAIL
+*	STUDENT ID: 0905049
+*	LEVEL:1
+*	TERM :1
+*	DEPARTMENT OF CSE,BUET.
+*SUPERVISED BY:
+*	SUMAIYA NAZEEN
+*	LECTURER,
+*	DEPARTMENT OF CSE,BUET. 
+==============================================
 																
-
-
-                                                                 ==============================================
-                                                                         Copyright (C) 2011 BUET.
-                                                                 ==============================================
+==============================================
+	Copyright (C) 2011 BUET.
+==============================================
 																 
 Thank you for being with PACMAN game. This README file contains information about the game as well as more detailed information on certain features.
 																 
@@ -34,7 +32,7 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 ============================================================
-TABLE OF CONTENTS
+*TABLE OF CONTENTS
 ============================================================
 
 1. Description
@@ -57,7 +55,7 @@ TABLE OF CONTENTS
 ______________________________________________________________________________
 
 ============================================================
-1. DESCRIPTION
+#1. DESCRIPTION
 ============================================================
 
 PACMAN is a easy to play game.It is a small version of original PACMAN game.
@@ -65,7 +63,7 @@ It is developed as a term project. It has three levels. As like original game ,i
 Pacman have to avoid the enemy and eat all foods. 
 
 ============================================================
-2. INFORMATION
+#2. INFORMATION
 ============================================================
 
 Programming language: C.
@@ -74,7 +72,7 @@ Dependencies:Compiler MS Visual C++,iGraphics(Header file provided by BUET).
 Supported OS: Windows(windows XP,windows Vista, Windows 7,Windows NT,Windows 2000).
 
 ============================================================
-3. INSTALLATION
+#3. INSTALLATION
 ============================================================
 
 To start this game it's need is "pacman.exe" file and there must be others file to run the game in the same folder.
@@ -82,7 +80,7 @@ Or, if you want to complile the source code "pacman.cpp", you need to install MS
 If you have, double click on the source code.Then compile and run the code. 
 
 ============================================================
-4. FEATURES OF THE PROJECT
+#4. FEATURES OF THE PROJECT
 ============================================================
 
 The game has beem developed under some features.
@@ -104,7 +102,7 @@ The game has beem developed under some features.
       7.One player can restart the game as amny times as he want.	  
 	  
 ============================================================
-5. INCTRUCTIONS TO PLAY
+#5. INCTRUCTIONS TO PLAY
 ============================================================
 
 After running the game you need to input your name. Then enter to next and then click. 
@@ -120,7 +118,7 @@ You can click any of the button. If you click "NEW GAME" game will start. You ha
 If your life is zero, you will reach end of game. You can play the game again from start.
 
 ============================================================
-6. HOT KEYS
+#6. HOT KEYS
 ============================================================
 
 LEFT AERROW: To move Pacman left.
@@ -131,7 +129,7 @@ DOWN AERROW: To move Pacman down.
 HOME: To pause the game.
 
 ============================================================
-7. LIMITATIONS
+#7. LIMITATIONS
 ============================================================	
 
 As this is the first project of the developer, there might be some limitations. Sometimes enemies may cross the maze. 
@@ -139,7 +137,7 @@ In this version the game cannot be saved in the middle.If any one exit the game 
 There others may be exists which may not be included in the game. 
 
 ============================================================
-8. FUTURE DEVELOPMENT
+#8. FUTURE DEVELOPMENT
 ============================================================
 
 Though in this version has some limitations,in later version this sorts of limitation will try to solve and some new features will be added.
@@ -152,7 +150,7 @@ The new features may be:
 Wait for the new version. Hopfully you will satisfy if you are not in this version.
 
 ============================================================
-9. SUGGETIONS
+#9. SUGGETIONS
 ============================================================
 
 If any one want to give some recommendations or suggetions ,plz mail to "baharcse09@yahoo.com" without any hesitations.
