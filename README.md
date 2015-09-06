@@ -1,12 +1,12 @@
 ==============================================
 #PROJECT NAME: PACMAN GAME
-*DEVELOPED BY: 
+##DEVELOPED BY: 
 *	NAME: MD HABIBULLAH BIN ISMAIL
 *	STUDENT ID: 0905049
 *	LEVEL:1
 *	TERM :1
 *	DEPARTMENT OF CSE,BUET.
-*SUPERVISED BY:
+##SUPERVISED BY:
 *	SUMAIYA NAZEEN
 *	LECTURER,
 *	DEPARTMENT OF CSE,BUET. 
@@ -32,7 +32,7 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 ============================================================
-*TABLE OF CONTENTS
+#TABLE OF CONTENTS
 ============================================================
 
 1. Description
