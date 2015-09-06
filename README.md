@@ -1,15 +1,15 @@
 ==============================================
 #PROJECT NAME: PACMAN GAME
 ##DEVELOPED BY: 
-*	NAME: MD HABIBULLAH BIN ISMAIL
-*	STUDENT ID: 0905049
-*	LEVEL:1
-*	TERM :1
-*	DEPARTMENT OF CSE,BUET.
+	NAME: MD HABIBULLAH BIN ISMAIL
+	STUDENT ID: 0905049
+	LEVEL:1
+	TERM :1
+	DEPARTMENT OF CSE,BUET.
 ##SUPERVISED BY:
-*	SUMAIYA NAZEEN
-*	LECTURER,
-*	DEPARTMENT OF CSE,BUET. 
+	SUMAIYA NAZEEN
+	LECTURER,
+	DEPARTMENT OF CSE,BUET. 
 ==============================================
 																
 ==============================================
